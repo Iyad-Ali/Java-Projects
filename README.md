@@ -1,2 +1,2 @@
 # Java-Projects
-projects that i made using java
+projects that I made using java
